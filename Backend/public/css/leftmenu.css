@@ -1,0 +1,33 @@
+﻿
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	}
+
+#menu {
+	width: 200px;
+	border: 1px solid #ccc;
+	margin: 10px;
+	}
+	
+#menu li a {
+  	height: 32px;
+  	voice-family: "\"}\""; 
+  	voice-family: inherit;
+  	height: 24px;
+	text-decoration: none;
+	}	
+	
+#menu li a:link, #menu li a:visited {
+	color: #888;
+	display: block;
+	background: url(menu.gif);
+	padding: 8px 0 0 30px;
+	}
+	
+#menu li a:hover, #menu li a:active {
+	color: #283A50;
+	background: url(menu.gif) 0 -32px;
+	padding: 8px 0 0 30px;
+	}

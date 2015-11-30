@@ -1,0 +1,60 @@
+﻿body {
+	background-color: #F6F6F0;	
+}
+
+#pageContainer {
+    margin : 0 auto;
+	width: 980px;
+}
+
+#topmenu {
+	margin-top: 65px;
+	margin-left: 25px;
+}
+
+#topDiv {
+	width: 760px;
+	height: 150px;
+	background-color: #2F2827;
+	background-image: url('images/logo.jpg');
+	float: left;	
+}
+
+.bottomPosMenu {
+	border: 0;
+	padding-top: 40px;
+	text-align: right;
+	vertical-align: bottom;
+}
+
+#leftDiv {
+	width: 220px;
+	background: #5D5D5D;
+	float: left;
+	height: 700px;	
+}
+
+.leftDivMenu {
+	vertical-align: middle;
+}
+
+#contentDiv {
+	width: 760px;
+	padding-top: 10px;
+	background-color: #F6F6F0;
+	display: block;
+	float: left;
+}
+
+#footerDiv {
+	border: 0;
+	float: left;
+	width: 980px;	
+	height: 40px; 
+	background: #2F2827;
+	text-align: right;
+}
+
+#logo {
+	text-align:center;
+}

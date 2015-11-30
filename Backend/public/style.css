@@ -1,0 +1,28 @@
+﻿body {
+	background-color: #F6F6F0;	
+}
+
+#pageContainer {
+    margin : 0 auto;
+	width: 980px;
+}
+
+#leftDiv {
+	width: 250px;
+	background: #5D5D5D;
+	float: left;
+	height: 700px;	
+}
+
+#contentDiv {
+	width: 730px;
+	padding-top: 10px;
+	background-color: #F6F6F0;
+	display: block;
+	float: left;
+}
+
+ul
+{
+    list-style-type: none;
+}
